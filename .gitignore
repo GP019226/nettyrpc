@@ -1,0 +1,16 @@
+*.class
+*.iml
+*.iws
+*.ipr
+*.project
+*.jar
+*.war
+*.ear
+*.bak
+*.swp
+.idea
+target
+bin
+.classpath
+.project
+.settings
